@@ -1,4 +1,4 @@
 print("hola mundo")
-nom = input("ingresa tu nombre")
-
-print("hola " + nom)
+nom = input("ingresa tu nombre: ")
+edad = input("Ingrese su edad: ")
+print("hola " + nom + " de " + edad + " años") 
